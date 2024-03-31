@@ -1,4 +1,4 @@
-// 1.20.1	2023-11-18T13:21:14.6757945	Recipes
+// 1.20.1	2024-03-31T11:08:54.3460426	Recipes
 2d9771ce5f2b6839d92423a86134b16c1e1e4c56 data/mysticalagriculture/recipes/seed/crafting/air.json
 aa2166fe295ecb2f4f62cea0140b76ffb661b364 data/mysticalagriculture/recipes/seed/crafting/aluminum.json
 127bdadb8c6b224ead8a61a3b81563154a8ffc53 data/mysticalagriculture/recipes/seed/crafting/amethyst.json
@@ -60,7 +60,6 @@ f2971139070e903c2ef1786cc5a2f4d01289f6a4 data/mysticalagriculture/recipes/seed/c
 654858e756e1529f8fd4c09095915296dbc91796 data/mysticalagriculture/recipes/seed/crafting/honey.json
 e08dac55896f74f9ce258bf68560bdc6e801ea25 data/mysticalagriculture/recipes/seed/crafting/hop_graphite.json
 3bb6e4fb1dfc463e8e16673210e5d5e9fd3c5ffd data/mysticalagriculture/recipes/seed/crafting/ice.json
-8b28a3cb94d2dd68272f173c9869937138412618 data/mysticalagriculture/recipes/seed/crafting/inferium.json
 f835c93070a8df8f22c54e0f188d877d336ffae3 data/mysticalagriculture/recipes/seed/crafting/invar.json
 d3f0148c3cbb32d107ced06498a659d55be1bf00 data/mysticalagriculture/recipes/seed/crafting/iridium.json
 a060a10de146d176ec4082bcf2b5537b2ec54e3e data/mysticalagriculture/recipes/seed/crafting/iron.json
@@ -196,7 +195,6 @@ fe58b5b0009dc800a05a8f865103bc6e141d6035 data/mysticalagriculture/recipes/seed/i
 933ef68328fdcb63f8bdf057bbeea346b86e63da data/mysticalagriculture/recipes/seed/infusion/honey.json
 1a73e999bbc5dbf135cd803a622816102b9b1b19 data/mysticalagriculture/recipes/seed/infusion/hop_graphite.json
 54910dd940082bb459898bf848ffc79cefadfcc0 data/mysticalagriculture/recipes/seed/infusion/ice.json
-ca873b0b248e8cefaf9965607c5ac78ddd63ba41 data/mysticalagriculture/recipes/seed/infusion/inferium.json
 cdaf298fcb577a2ff9a76ba1b3f578dc408641f0 data/mysticalagriculture/recipes/seed/infusion/invar.json
 c86c3f0b6e433dd6bf1c16c7e03eb07fe7e25dd9 data/mysticalagriculture/recipes/seed/infusion/iridium.json
 08c1aefa77f4b891209d622679730f05170cdbbf data/mysticalagriculture/recipes/seed/infusion/iron.json

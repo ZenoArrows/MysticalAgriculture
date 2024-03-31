@@ -206,6 +206,7 @@ public final class ModCrops {
 
     public static void onRegisterCrops(ICropRegistry registry) {
         INFERIUM.getTextures().setEssenceTexture(new ResourceLocation(MOD_ID, "item/inferium_essence"));
+        INFERIUM.getRecipeConfig().setSeedCraftingRecipeEnabled(false).setSeedInfusionRecipeEnabled(false);
         INFERIUM.setCropBlock(() -> (CropBlock) ModBlocks.INFERIUM_CROP.get())
                 .setEssenceItem(ModItems.INFERIUM_ESSENCE);
 
